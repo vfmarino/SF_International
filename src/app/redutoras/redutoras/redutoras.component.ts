@@ -10,7 +10,7 @@ export class RedutorasComponent {
     constructor(private route: Router){}
 
     acaoDireta(){
-      this.route.navigate(['redutora/acaoDireta']);
+      this.route.navigate(['acaoDireta']);
     }
 
     autoOperada(){
