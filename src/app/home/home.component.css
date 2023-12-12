@@ -1,0 +1,19 @@
+.sizing{
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin: 20px auto;
+
+}
+
+button{
+    margin-top: 10px;
+    height: 45px;
+    width: 100%;
+    background-color: var(--color-button);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
